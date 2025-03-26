@@ -2,7 +2,7 @@
 
 ## 💻 ADS Student | Focused on Ciber Security 
 
-🎈 I'm studying ADS and Cyber Security on my own (focus). I have experience with **HTML, CSS, C, C#, Linux** and I'm always looking to understand more about programming languages.
+🎈 I'm studying Analysis and Development Systems in college and learning Cyber Security on my own. I have experience with HTML, CSS, C, C#, Linux, and I'm always looking to learn more about programming languages.
 
 
 ### ⚡ Tech Snapshot  
@@ -22,9 +22,5 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yM4T4&theme=dark" width="400">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yM4T4&theme=dark" width="400">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yM4T4&theme=dark" width="600">
 </p>
 
