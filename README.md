@@ -2,7 +2,7 @@
 
 ## 💻 ADS Student | Focused on Cybersecurity 
 
-🎈 I'm studying Systems Analysis and Development in college and learning Cyber Security on my own. I have experience with **HTML, CSS, C, C#, Linux**, and I'm always looking to learn more about programming languages.
+🎈 I'm studying Systems Analysis and Development in college and learning Cyber Security on my own. 
 
 
 ### ⚡ Tech Snapshot  
