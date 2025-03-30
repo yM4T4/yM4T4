@@ -1,6 +1,6 @@
 # Hi, i'm Miguel Alves  
 
-## 💻 ADS Student
+## 💻 Student programmer
 
 🎈 I'm studying Systems Analysis and Development in college and learning Cyber Security on my own. 
 
